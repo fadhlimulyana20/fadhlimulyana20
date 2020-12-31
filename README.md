@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📛 My name is Muhammad Fadhli Putra Mulyana
-- 📚 I'm currently studying at Universitas Sebelas Maret, Surakarta, Indonesia
+- 📚 Computer Science Student at Informatics Department of Universitas Sebelas Maret, Surakarta, Indonesia
 - 📫 How to reach me: 
   - Email : fadhlimulyana20@gmail.com
   - twitter : [fadhlimulyana](https://twitter.com/fadhlimulyana)
