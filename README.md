@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 📛 My name is Muhammad Fadhli Putra Mulyana
 - 📚 I'm currently studying at Universitas Sebelas Maret, Surakarta, Indonesia
-- 🌱 I’m currently learning React, Django, Javascript, Python, C++, and PHP
 - 📫 How to reach me: 
   - Email : fadhlimulyana20@gmail.com
   - twitter : [fadhlimulyana](https://twitter.com/fadhlimulyana)
