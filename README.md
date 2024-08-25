@@ -1,10 +1,15 @@
-### Hi there 👋
-- 📛 My name is Muhammad Fadhli Putra Mulyana
-- 📚 Computer Science Student at Informatics Department of Universitas Sebelas Maret, Surakarta, Indonesia
+# Hi there, I'm Fadhli Mulyana 👋
+## About me
+- 📚 Co-founder and Software Engineer at [Kuadran.co](https://kuadran.co)
+- :technologist: Currently working on `Backend Development`, `Frontend Developmnet`, `Devops and Performance Optimization`
 - 📫 How to reach me: 
   - Email : fadhlimulyana20@gmail.com
   - twitter : [fadhlimulyana](https://twitter.com/fadhlimulyana)
 
+## About me
+You can reach me or read my writing on:
+- [Linkedin](https://www.linkedin.com/in/fadhlimulyana/)
+- [Medium](https://medium.com/@fadhlimulyana20)
 <!--
 **fadhlimulyana20/fadhlimulyana20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
