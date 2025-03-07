@@ -1,6 +1,6 @@
 # Hi there, I'm Fadhli Mulyana 👋
 ## About me
-- 📚 Co-founder and Software Engineer at [Kuadran.co](https://kuadran.co)
+- 📚 Software Engineer at [Kuadran.co](https://kuadran.co)
 - :technologist: Currently working on `Backend Development`, `Frontend Developmnet`, `Devops and Performance Optimization`
 - 📫 How to reach me: 
   - Email : fadhlimulyana20@gmail.com
